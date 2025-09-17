@@ -1,2 +1,2 @@
 # Prog6212p1
-
+For lecturers and approvers, the Contract Monthly Claim System (CMCS) HTML prototype offers an organized dashboard-style interface.  The system title is shown in a navigation bar at the top, and connections to important features including document uploads, claim history, new claims, and profile management are located in a sidebar.  A login form, a lecturer dashboard with summary data, a claim submission form, and tables for monitoring claim approvals and statuses are all included in the main content area.  The system presently operates as a static prototype without backend database integration, but having a polished appearance and responsiveness thanks to Bootstrap and custom CSS.
